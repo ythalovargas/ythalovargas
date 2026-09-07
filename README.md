@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Ythalo!
+# Olá, eu sou Ythalo!
 
 Sou **Engenheiro de Software** com foco no desenvolvimento de sistemas escaláveis, APIs robustas e soluções voltadas para negócios.
 
